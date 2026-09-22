@@ -1,0 +1,6 @@
+.venv/
+# Ignore heavy model weight files
+kobota-whisper/model.safetensors
+*.safetensors
+*.bin
+*.pt
